@@ -142,22 +142,17 @@ The dataset contains customer shopping behavior information, including:
 ## Project Structure
 
 ```text
-Customer-Behaviour-Analysis/
+Customers-trends-data-analysis-SQL-Python-PowerBI/
 │
-├── data/
-│   └── customer_data.csv
+├── customer_data.csv
 │
-├── notebooks/
-│   └── customer_shopping_behaviour_analysis.ipynb
+├── customer_shopping_behaviour_analysis.ipynb
 │
-├── sql/
-│   └── customer_behaviour_analysis.sql
+├── customer_behaviour_analysis.sql
 │
-├── powerbi/
-│   └── Customer_Behaviour_Dashboard.pbix
+├── Customer_Behaviour_Dashboard.pbix
 │
-├── images/
-│   └── dashboard.png
+├── dashboard.png
 │
 └── README.md
 ```
